@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="Button_Text">Roll</string>
+   <string name="description_l">Dice Image for Rolling</string>
+    <string name="description_r">Dice Image for Rolling</string>
+
+    <string name="todo">TODO</string>
+</resources>
